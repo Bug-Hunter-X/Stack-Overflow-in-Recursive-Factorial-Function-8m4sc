@@ -1,0 +1,1 @@
+This repository contains a Hack program that demonstrates a stack overflow error in a recursive factorial function.  The recursive approach is inefficient and prone to stack overflows for larger input values.  A solution is provided that utilizes an iterative approach to avoid the stack overflow issue.
